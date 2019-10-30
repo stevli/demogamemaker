@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1fa6bc93-46a1-44b6-9a8f-f3cb7ad0b3da",
+            "Value": {
+                "id": "fd4aca00-303d-49ea-8b94-895e8bcc01f1",
+                "resourcePath": "sprites\\sp_arrow\\sp_arrow.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2bfda849-b863-4f02-92c3-135b4bd6b365",
             "Value": {
                 "id": "1552ffc2-31ae-4f76-90f4-ab07a34ef75d",
@@ -295,6 +303,14 @@
             }
         },
         {
+            "Key": "c19591aa-5854-49d5-a095-f89cbdba8245",
+            "Value": {
+                "id": "f2ea640e-ed99-444b-8512-132958231cca",
+                "resourcePath": "fonts\\ft_arial32\\ft_arial32.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "c6c1de96-a553-429e-8b7a-7cb64c8898d5",
             "Value": {
                 "id": "bd90a19e-49e6-4406-bfed-ea913c223e4f",
@@ -351,6 +367,14 @@
             }
         },
         {
+            "Key": "dd869ebd-4144-46e8-98ee-dfcb8fee692d",
+            "Value": {
+                "id": "fe76f6fa-bca4-4028-8557-4633c3b57466",
+                "resourcePath": "scripts\\sc_start_menu\\sc_start_menu.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "df168b98-68a8-4eef-8d1a-af96640b3833",
             "Value": {
                 "id": "46e4fae7-4871-4c03-9a90-ff12da679180",
@@ -384,7 +408,7 @@
         }
     ],
     "script_order": [
-        
+        "dd869ebd-4144-46e8-98ee-dfcb8fee692d"
     ],
     "tutorial": ""
 }
