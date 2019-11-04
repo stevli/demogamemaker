@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "5efca6b4-661b-45d2-8678-b40912f45f15",
+            "Value": {
+                "id": "37945d3e-d231-4378-8d98-e97da60d2b83",
+                "resourcePath": "objects\\ob_start_menu\\ob_start_menu.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "609d231e-6f27-4ac9-a8e7-6feb0b8eadf4",
             "Value": {
                 "id": "5083c9dc-ae2f-44e0-8ef8-691ec855b285",
@@ -306,7 +314,7 @@
             "Key": "c19591aa-5854-49d5-a095-f89cbdba8245",
             "Value": {
                 "id": "f2ea640e-ed99-444b-8512-132958231cca",
-                "resourcePath": "fonts\\ft_arial32\\ft_arial32.yy",
+                "resourcePath": "fonts\\fn_arial_32\\fn_arial_32.yy",
                 "resourceType": "GMFont"
             }
         },

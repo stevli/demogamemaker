@@ -2,7 +2,7 @@
     "id": "c19591aa-5854-49d5-a095-f89cbdba8245",
     "modelName": "GMFont",
     "mvc": "1.1",
-    "name": "ft_arial32",
+    "name": "fn_arial_32",
     "AntiAlias": 1,
     "TTFName": "",
     "ascenderOffset": 0,
