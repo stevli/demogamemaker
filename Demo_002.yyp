@@ -407,11 +407,27 @@
             }
         },
         {
+            "Key": "df68abc6-8a46-47a6-bf0b-756d4ffbfb45",
+            "Value": {
+                "id": "ca84bdef-9705-4688-9e6d-c477b3588d78",
+                "resourcePath": "sprites\\sp_cam\\sp_cam.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e198cb02-8325-4744-bdb5-5681cedbf91b",
             "Value": {
                 "id": "75ebf77c-27fd-4b14-a1bd-3c6a371db471",
                 "resourcePath": "views\\e198cb02-8325-4744-bdb5-5681cedbf91b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e6e31061-0f10-4800-9199-52221d8828a5",
+            "Value": {
+                "id": "c17dc596-b3ff-4826-b6a1-554b04c1c1cd",
+                "resourcePath": "objects\\ob_cam\\ob_cam.yy",
+                "resourceType": "GMObject"
             }
         },
         {
